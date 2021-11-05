@@ -19,5 +19,9 @@ let questionAnswers = [
     options: ["Buhari", "Jonathan", "Obasanjo", "None"],
     answer: 0,
   },
-  {},
+  {
+    question: "Who is the governor of Lagos",
+    options: ["Amobode", "Fasola", "Sanwo Olu", "Alabi"],
+    answer: 3,
+  },
 ];
